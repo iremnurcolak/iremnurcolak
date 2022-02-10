@@ -40,5 +40,7 @@
 
 <br/>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<a href="https://www.linkedin.com/in/iremnur-colak/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 
 ⭐️ From [iremnurcolak](https://github.com/iremnurcolak)
