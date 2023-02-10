@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at University of TOBB University of Economics and Technology.
 - 💼 &nbsp; Working as a Software Engineer at Nokia.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about VR.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
