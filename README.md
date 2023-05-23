@@ -4,9 +4,9 @@
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University of TOBB University of Economics and Technology.
+- 🎓 &nbsp; Studied Computer Science at University of TOBB University of Economics and Technology.
 - 💼 &nbsp; Working as a Software Engineer at Nokia.
-- 🌱 &nbsp; Learning more about VR.
+- 🌱 &nbsp; Learning more about ML, DL.
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
