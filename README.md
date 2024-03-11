@@ -4,7 +4,7 @@
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at University of TOBB University of Economics and Technology.
+- 🎓 &nbsp; Studied Computer Science at TOBB University of Economics and Technology.
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
